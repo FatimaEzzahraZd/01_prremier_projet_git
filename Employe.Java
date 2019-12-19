@@ -7,4 +7,12 @@ private String telephone;
 private int age;
 
 
+/*
+ *ctor
+ */
+
+public Employe(){
+}
+
+
 }
